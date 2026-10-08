@@ -4,6 +4,7 @@ Bioinformatician at the **Geneva University Hospitals (HUG)** in Geneva, Switzer
 
 - 🧬 Clinical genomics: targeted capture sequencing for somatic oncology, somatic hematology and pharmacogenomics
 - 🔬 Nanopore sequencing, including methylation-based tumour classification in the spirit of [nanoDx](https://gitlab.com/pesk/nanoDx), [Rapid-CNS2](https://github.com/areebapatel/Rapid-CNS2) and [ROBIN](https://github.com/LooseLab/ROBIN)
+- 🛠️ Python, R, Snakemake; containers with Podman and Apptainer
 - 🔒 Most of my day-to-day work lives on an **internal GitLab**, so this profile only shows a small part of it
 
 ## Links
